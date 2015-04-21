@@ -18,6 +18,7 @@ search: true
 # Introduction
 
 hello, this is a test.
+hello, this is a test too.
 
 Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 
